@@ -14,7 +14,6 @@ boolean ativo, maior;
 char sexo;
 String nome;
 */
-
     byte idade = 22, quantidadeDeDependentes = 1;
     long numeroDeVendas, colaboradores;
     float altura = 1.78f, largura = 0.65f, peso = 75.5f, aliquota = 0.38f;
